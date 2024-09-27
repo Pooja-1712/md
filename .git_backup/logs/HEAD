@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 84b69e7d0383a5df77a6cb84c2215321fa818294 amit <pgupta9307@gmail.com> 1727267377 +0530	commit (initial): install react js and tailwind css and create the first template
+84b69e7d0383a5df77a6cb84c2215321fa818294 0000000000000000000000000000000000000000 amit <pgupta9307@gmail.com> 1727326164 +0530	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 84b69e7d0383a5df77a6cb84c2215321fa818294 amit <pgupta9307@gmail.com> 1727326164 +0530	Branch: renamed refs/heads/master to refs/heads/main
+84b69e7d0383a5df77a6cb84c2215321fa818294 0dbca31f9e6bdfc9d954cd98bebccd8584f19026 amit <pgupta9307@gmail.com> 1727341634 +0530	commit: create pages and routes
+0dbca31f9e6bdfc9d954cd98bebccd8584f19026 2681a864021025d4148640ba5e129806a42345c2 amit <pgupta9307@gmail.com> 1727351252 +0530	commit: create header component
